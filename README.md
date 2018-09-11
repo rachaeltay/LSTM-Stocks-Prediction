@@ -4,7 +4,7 @@ Techinical analysis on various tech stocks to create predictive models.
 
 After data collection from web scraping, data pre-processing is executed. We used LSTM from the Keras package as our model. Our activation function is relu and optimiser is Adam optimization. The Adam optimization algorithm update network weights iterative based in training data. This gives it an advantage over the classical stochastic gradient. Once the model has been trained, we forecast prices of the tech stocks on particular days.
 
-On top of individual tech stock analysis, we conducted 2 other analysis for comparison.s
+On top of individual tech stock analysis, we conducted 2 other analysis for comparison.
 
 ## 1. Moving Average Convergence Divergence Analysis
 
